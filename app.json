@@ -28,7 +28,7 @@
             "required": true,
             "value":"true"
         },
-       "HEROKU_API_KEY": {
+       "HEROKU_API_KEY": {96d3f1a6-fd7e-4382-ac88-46413e52ccc4
             "description": "For updating bot and setting vars remotely",
             "required": true,
             "value":""
@@ -38,7 +38,7 @@
             "required": true,
             "value":""
         },
-        "STICKER_DATA": {
+        "STICKER_DATA": { SHAHEEN OFFICIAL 
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
             "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
@@ -73,7 +73,7 @@
             "required": false,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
-       "SESSION": {
+       "SESSION": {Raganork~61941d6339dd52ce9227ab615a803d58:574f7233305968514f78343d
             "description": "Your MD session",
             "required": true
              
